@@ -1,0 +1,69 @@
+
+Training with learning rate: 0.0001
+Iteration 0: Cost = 2.3026, Val Cost = 2.3025, Train Acc = 67.03%, Test Acc = 67.94%
+Iteration 100: Cost = 2.2918, Val Cost = 2.2917, Train Acc = 67.40%, Test Acc = 68.31%
+Iteration 200: Cost = 2.2811, Val Cost = 2.2809, Train Acc = 67.77%, Test Acc = 68.66%
+Iteration 300: Cost = 2.2706, Val Cost = 2.2703, Train Acc = 68.11%, Test Acc = 68.88%
+Iteration 400: Cost = 2.2601, Val Cost = 2.2598, Train Acc = 68.41%, Test Acc = 69.05%
+Iteration 500: Cost = 2.2497, Val Cost = 2.2494, Train Acc = 68.74%, Test Acc = 69.31%
+Iteration 600: Cost = 2.2394, Val Cost = 2.2391, Train Acc = 69.04%, Test Acc = 69.60%
+Iteration 700: Cost = 2.2293, Val Cost = 2.2288, Train Acc = 69.31%, Test Acc = 69.79%
+Iteration 800: Cost = 2.2192, Val Cost = 2.2187, Train Acc = 69.59%, Test Acc = 70.10%
+Iteration 900: Cost = 2.2091, Val Cost = 2.2086, Train Acc = 69.86%, Test Acc = 70.36%
+Iteration 1000: Cost = 2.1992, Val Cost = 2.1986, Train Acc = 70.10%, Test Acc = 70.60%
+Iteration 1100: Cost = 2.1894, Val Cost = 2.1887, Train Acc = 70.33%, Test Acc = 70.82%
+Iteration 1200: Cost = 2.1796, Val Cost = 2.1789, Train Acc = 70.55%, Test Acc = 71.05%
+Iteration 1300: Cost = 2.1699, Val Cost = 2.1692, Train Acc = 70.78%, Test Acc = 71.38%
+Iteration 1400: Cost = 2.1603, Val Cost = 2.1595, Train Acc = 70.97%, Test Acc = 71.53%
+Iteration 1500: Cost = 2.1508, Val Cost = 2.1500, Train Acc = 71.19%, Test Acc = 71.69%
+Iteration 1600: Cost = 2.1413, Val Cost = 2.1405, Train Acc = 71.41%, Test Acc = 71.91%
+Iteration 1700: Cost = 2.1319, Val Cost = 2.1310, Train Acc = 71.59%, Test Acc = 72.05%
+Iteration 1800: Cost = 2.1226, Val Cost = 2.1217, Train Acc = 71.75%, Test Acc = 72.26%
+Iteration 1900: Cost = 2.1134, Val Cost = 2.1124, Train Acc = 71.88%, Test Acc = 72.45%
+Iteration 2000: Cost = 2.1042, Val Cost = 2.1032, Train Acc = 72.05%, Test Acc = 72.61%
+
+Training with learning rate: 0.001
+Iteration 0: Cost = 2.3026, Val Cost = 2.3015, Train Acc = 67.03%, Test Acc = 67.94%
+Iteration 100: Cost = 2.1992, Val Cost = 2.1977, Train Acc = 70.11%, Test Acc = 70.59%
+Iteration 200: Cost = 2.1042, Val Cost = 2.1024, Train Acc = 72.05%, Test Acc = 72.61%
+Iteration 300: Cost = 2.0163, Val Cost = 2.0141, Train Acc = 73.29%, Test Acc = 74.06%
+Iteration 400: Cost = 1.9348, Val Cost = 1.9323, Train Acc = 74.25%, Test Acc = 75.08%
+Iteration 500: Cost = 1.8593, Val Cost = 1.8563, Train Acc = 75.00%, Test Acc = 75.74%
+Iteration 600: Cost = 1.7892, Val Cost = 1.7857, Train Acc = 75.62%, Test Acc = 76.36%
+Iteration 700: Cost = 1.7241, Val Cost = 1.7203, Train Acc = 76.15%, Test Acc = 77.27%
+Iteration 800: Cost = 1.6638, Val Cost = 1.6595, Train Acc = 76.74%, Test Acc = 77.96%
+Iteration 900: Cost = 1.6077, Val Cost = 1.6031, Train Acc = 77.26%, Test Acc = 78.54%
+Iteration 1000: Cost = 1.5557, Val Cost = 1.5507, Train Acc = 77.65%, Test Acc = 79.06%
+Iteration 1100: Cost = 1.5074, Val Cost = 1.5020, Train Acc = 78.12%, Test Acc = 79.52%
+Iteration 1200: Cost = 1.4625, Val Cost = 1.4567, Train Acc = 78.47%, Test Acc = 79.88%
+Iteration 1300: Cost = 1.4206, Val Cost = 1.4145, Train Acc = 78.84%, Test Acc = 80.22%
+Iteration 1400: Cost = 1.3817, Val Cost = 1.3752, Train Acc = 79.19%, Test Acc = 80.49%
+Iteration 1500: Cost = 1.3453, Val Cost = 1.3385, Train Acc = 79.47%, Test Acc = 80.82%
+Iteration 1600: Cost = 1.3113, Val Cost = 1.3043, Train Acc = 79.70%, Test Acc = 81.14%
+Iteration 1700: Cost = 1.2795, Val Cost = 1.2722, Train Acc = 79.92%, Test Acc = 81.36%
+Iteration 1800: Cost = 1.2497, Val Cost = 1.2422, Train Acc = 80.21%, Test Acc = 81.54%
+Iteration 1900: Cost = 1.2217, Val Cost = 1.2140, Train Acc = 80.44%, Test Acc = 81.70%
+Iteration 2000: Cost = 1.1955, Val Cost = 1.1875, Train Acc = 80.71%, Test Acc = 81.85%
+
+Training with learning rate: 0.01
+Iteration 0: Cost = 2.3026, Val Cost = 2.2917, Train Acc = 67.03%, Test Acc = 67.94%
+Iteration 100: Cost = 1.5550, Val Cost = 1.5454, Train Acc = 77.68%, Test Acc = 79.15%
+Iteration 200: Cost = 1.1947, Val Cost = 1.1845, Train Acc = 80.73%, Test Acc = 81.87%
+Iteration 300: Cost = 1.0004, Val Cost = 0.9897, Train Acc = 82.35%, Test Acc = 83.39%
+Iteration 400: Cost = 0.8812, Val Cost = 0.8704, Train Acc = 83.32%, Test Acc = 84.27%
+Iteration 500: Cost = 0.8007, Val Cost = 0.7899, Train Acc = 84.08%, Test Acc = 85.07%
+Iteration 600: Cost = 0.7424, Val Cost = 0.7317, Train Acc = 84.63%, Test Acc = 85.62%
+Iteration 700: Cost = 0.6981, Val Cost = 0.6876, Train Acc = 85.14%, Test Acc = 86.17%
+Iteration 800: Cost = 0.6631, Val Cost = 0.6528, Train Acc = 85.49%, Test Acc = 86.49%
+Iteration 900: Cost = 0.6347, Val Cost = 0.6246, Train Acc = 85.81%, Test Acc = 86.81%
+Iteration 1000: Cost = 0.6111, Val Cost = 0.6011, Train Acc = 86.06%, Test Acc = 87.08%
+Iteration 1100: Cost = 0.5911, Val Cost = 0.5814, Train Acc = 86.31%, Test Acc = 87.36%
+Iteration 1200: Cost = 0.5740, Val Cost = 0.5644, Train Acc = 86.52%, Test Acc = 87.57%
+Iteration 1300: Cost = 0.5590, Val Cost = 0.5496, Train Acc = 86.69%, Test Acc = 87.71%
+Iteration 1400: Cost = 0.5458, Val Cost = 0.5367, Train Acc = 86.87%, Test Acc = 87.88%
+Iteration 1500: Cost = 0.5341, Val Cost = 0.5252, Train Acc = 87.04%, Test Acc = 87.99%
+Iteration 1600: Cost = 0.5236, Val Cost = 0.5149, Train Acc = 87.17%, Test Acc = 88.14%
+Iteration 1700: Cost = 0.5142, Val Cost = 0.5057, Train Acc = 87.30%, Test Acc = 88.23%
+Iteration 1800: Cost = 0.5056, Val Cost = 0.4973, Train Acc = 87.43%, Test Acc = 88.40%
+Iteration 1900: Cost = 0.4977, Val Cost = 0.4896, Train Acc = 87.57%, Test Acc = 88.47%
+Iteration 2000: Cost = 0.4905, Val Cost = 0.4827, Train Acc = 87.67%, Test Acc = 88.55%

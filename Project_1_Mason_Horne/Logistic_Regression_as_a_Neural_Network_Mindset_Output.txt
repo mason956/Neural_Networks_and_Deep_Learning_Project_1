@@ -1,0 +1,58 @@
+Number of training examples: m_train = 209
+Number of testing examples: m_test = 50
+Height/Width of each image: num_px = 64
+Each image is of size: (64, 64, 3)
+train_set_x shape: (209, 64, 64, 3)
+train_set_y shape: (1, 209)
+test_set_x shape: (50, 64, 64, 3)
+test_set_y shape: (1, 50)
+
+
+train_set_x_flatten shape: (12288, 209)
+train_set_y shape: (1, 209)
+test_set_x_flatten shape: (12288, 50)
+test_set_y shape: (1, 50)
+sanity check after reshaping: [17 31 56 22 33]
+
+sigmoid([0, 2]) = [0.5        0.88079708]
+
+w = [[0.]
+ [0.]]
+b = 0
+
+dw = [[0.99845601]
+ [2.39507239]]
+db = 0.001455578136784208
+cost = 5.801545319394553
+
+w = [[0.19033591]
+ [0.12259159]]
+b = 1.9253598300845747
+dw = [[0.67752042]
+ [1.41625495]]
+db = 0.21919450454067652
+
+predictions = [[1. 1. 0.]]
+
+Cost after iteration 0: 0.693147
+Cost after iteration 100: 0.584508
+Cost after iteration 200: 0.466949
+Cost after iteration 300: 0.376007
+Cost after iteration 400: 0.331463
+Cost after iteration 500: 0.303273
+Cost after iteration 600: 0.279880
+Cost after iteration 700: 0.260042
+Cost after iteration 800: 0.242941
+Cost after iteration 900: 0.228004
+Cost after iteration 1000: 0.214820
+Cost after iteration 1100: 0.203078
+Cost after iteration 1200: 0.192544
+Cost after iteration 1300: 0.183033
+Cost after iteration 1400: 0.174399
+Cost after iteration 1500: 0.166521
+Cost after iteration 1600: 0.159305
+Cost after iteration 1700: 0.152667
+Cost after iteration 1800: 0.146542
+Cost after iteration 1900: 0.140872
+train accuracy: 99.04306220095694 %
+test accuracy: 70.0 %
